@@ -6,7 +6,7 @@ export default function Login() {
     <View style={styles.container}>
 
       <View style={{ marginBottom: 25 }}>
-        <Text style={styles.title}>LOGIN</Text>
+        <Text style={styles.title}>SEJA BEM-VINDO AO LOGIN</Text>
       </View>
 
       <View>
